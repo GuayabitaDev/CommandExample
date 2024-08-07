@@ -1,0 +1,4 @@
+name: CommandExample
+version: '${project.version}'
+main: guayabita.me.commandexample.CommandExample
+api-version: '1.20'
